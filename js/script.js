@@ -2,7 +2,7 @@
       var confirmPassword = "eweonesan";
       var password = document.getElementById("pswd").value;
       if (password == confirmPassword) {
-        window.location = "main.html";
+        window.location = "loop/main.html";
       } else {alert("Ih passnya salah!");
      }
     }
